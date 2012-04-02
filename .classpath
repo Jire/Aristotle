@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="lib/jml/jml-1.0b4.jar" sourcepath="lib/jml/jml-src-1.0b4.zip"/>
+	<classpathentry kind="lib" path="lib/alkine/alkine.jar"/>
+	<classpathentry kind="lib" path="lib/apache/commons/commons-logging-1.1.1.jar"/>
+	<classpathentry kind="lib" path="lib/apache/commons/httpmime-4.1.3.jar"/>
+	<classpathentry kind="lib" path="lib/apache/commons/commons-codec-1.4.jar"/>
+	<classpathentry kind="lib" path="lib/apache/commons/httpclient-4.1.3.jar"/>
+	<classpathentry kind="lib" path="lib/apache/commons/httpclient-cache-4.1.3.jar"/>
+	<classpathentry kind="lib" path="lib/apache/commons/httpcore-4.1.4.jar"/>
+	<classpathentry kind="lib" path="lib/jmegahal/JMegaHal.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
